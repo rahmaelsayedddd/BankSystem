@@ -19,23 +19,16 @@ A desktop application for managing a multi-bank system simulating real-world ban
 
 ## 🔧 Key Features
 
-### 👥 User Management
-- Sign up new users (customers or employees)
-- Update existing user details
-
-### 🏦 Bank & Branch Management (Admin)
-- Add a new bank
-- Add branches to existing banks
-
-### 👤 Customer Management (Employee)
-- Add new customers
-- View list of customers
-
-### 💰 Loan Management
-- View available loan types (industry, commercial, personal)
-- View list of loans with customer and employee names
-- **Customer actions**: request a loan, start a loan
-- **Employee actions**: accept, reject, and process loan payments
+- **Sign up** as a new user: Either Employee or Customer 
+- **Update user details**
+- **Add bank** (by admin).
+- **Add bank branch** (by Admin)
+- **Add a customer** (by employee)
+- **Show a list of loans** (industry loan, commercial loan, Personal loan)
+- **Show a list of customers**
+- **Show a list of loans with the customer name and the employee name**
+- **Perform operations on loans**: request and start operation (by customer)
+- **Perform operations on loans**: accept, reject, and pay the loan (by employee)
 
 ## 📊 SQL Queries Included
 
